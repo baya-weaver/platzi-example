@@ -1,2 +1,2 @@
 # platzi-example
-Learning sails.js framework
+<h1>Learning sails.js framework</h1>
